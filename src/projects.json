@@ -1,0 +1,17 @@
+[
+    {
+        "name": "Old Sale",
+        "img": "/src/img/old.png",
+        "description": "React JS, React Router Dom, Tailwind CSS, Daisy UI, Node JS, Express JS, Firebase, MongoDB, Vercel."
+    },
+    {
+        "name": "Lock Pc",
+        "img": "/src/img/Lock.png",
+        "description": "React JS, React Router Dom, Tailwind CSS, Daisy UI, Node JS, Express JS, Firebase, MongoDB, Vercel."
+    },
+    {
+        "name": "Code Fire",
+        "img": "/src/img/codeFire.png",
+        "description": "React JS, React Router Dom, Tailwind CSS, Daisy UI, Node JS, Express JS, Firebase, MongoDB, Vercel."
+    }
+]
